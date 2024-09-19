@@ -31,5 +31,75 @@ This is a personal portfolio website built to showcase my work, skills, and expe
 - **Google Fonts**: Custom fonts to improve typography.
 - **GitHub Pages**: For hosting the website.
 
+### Folder Explanation
+
+- `index.html`: The main structure of the website.
+- `css/`: Contains the stylesheet that controls the appearance of the site.
+- `js/`: JavaScript file(s) for interactive components, animations, or handling form submissions.
+- `images/`: Folder containing all images used on the site (e.g., project screenshots, profile pictures, etc.).
+- `fonts/`: Custom fonts used for text styling.
+
+## Setup and Installation
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/portfolio-website.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd portfolio-website
+    ```
+
+3. **Open `index.html` in a browser**:
+    You can open the `index.html` file directly in your browser to view the website locally, or use a local server.
+
+## How to Use
+
+1. **Customizing Content**:
+   - Edit the `index.html` file to update personal information such as your name, about me, projects, and social media links.
+   - Replace placeholder images in the `images/` folder with your own project screenshots, profile picture, etc.
+   
+2. **Styling**:
+   - Modify the `css/styles.css` file to change the appearance of the site.
+   - Custom colors, fonts, and layout changes can be made directly in this file.
+
+3. **JavaScript**:
+   - You can add new interactive features in the `js/main.js` file.
+   - Form submissions or any other dynamic behavior is controlled here.
+
+## Deployment
+
+You can deploy your portfolio website using any static hosting service, such as:
+
+- **GitHub Pages**: 
+   1. Go to your repository on GitHub.
+   2. Click on the **Settings** tab.
+   3. Scroll down to the **GitHub Pages** section.
+   4. Under **Source**, select the `main` branch and click **Save**.
+   5. Your website should be live at `https://yourusername.github.io/portfolio-website`.
+
+- **Vercel**: 
+   1. Install the [Vercel CLI](https://vercel.com/docs/cli).
+   2. Deploy using the following command:
+      ```bash
+      vercel
+      ```
+
+- **Netlify**:
+   1. Connect your GitHub repository to Netlify and set it up for automatic deployment.
+
+## Credits
+
+- **Colorlib**: Template design used in some sections of the website.
+- **Font Awesome**: For social media icons.
+- **Bootstrap**: CSS framework for quick layout development.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
