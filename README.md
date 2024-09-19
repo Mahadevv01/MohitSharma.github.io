@@ -42,16 +42,16 @@ This is a personal portfolio website built to showcase my work, skills, and expe
 
 ## Screenshots
 
-### Home Page
+## Home Page
 ![Home Page](https://github.com/user-attachments/assets/72a4e3fc-cf13-4bc0-b686-3e7fd4307577)
 
-### Projects Section
+## Projects Section
 ![Projects Section](https://github.com/user-attachments/assets/ab65d2c1-7289-4385-8576-3f14ae020fc6)
 
-### Certifications Section
+## Certifications Section
 ![Certifications Section](https://github.com/user-attachments/assets/99d0452c-4de7-42d0-b36c-367b879eead2)
 
-### Contact Section
+## Contact Section
 ![Contact Section](https://github.com/user-attachments/assets/aebfc30f-ba91-4a49-9a45-50eac5d80f3c)
 
 ## Setup and Installation
