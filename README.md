@@ -6,6 +6,7 @@ This is a personal portfolio website built to showcase my work, skills, and expe
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 - [Setup and Installation](#setup-and-installation)
 - [How to Use](#how-to-use)
 - [Deployment](#deployment)
@@ -38,6 +39,20 @@ This is a personal portfolio website built to showcase my work, skills, and expe
 - `js/`: JavaScript file(s) for interactive components, animations, or handling form submissions.
 - `images/`: Folder containing all images used on the site (e.g., project screenshots, profile pictures, etc.).
 - `fonts/`: Custom fonts used for text styling.
+
+## Screenshots
+
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/72a4e3fc-cf13-4bc0-b686-3e7fd4307577)
+
+### Projects Section
+![Projects Section](https://github.com/user-attachments/assets/ab65d2c1-7289-4385-8576-3f14ae020fc6)
+
+### Certifications Section
+![Certifications Section](https://github.com/user-attachments/assets/99d0452c-4de7-42d0-b36c-367b879eead2)
+
+### Contact Section
+![Contact Section](https://github.com/user-attachments/assets/aebfc30f-ba91-4a49-9a45-50eac5d80f3c)
 
 ## Setup and Installation
 
@@ -100,6 +115,3 @@ You can deploy your portfolio website using any static hosting service, such as:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
