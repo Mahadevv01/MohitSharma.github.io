@@ -20,7 +20,7 @@ This is a personal portfolio website built to showcase my work, skills, and expe
 - **Animations**: Smooth animations for UI elements to enhance user experience.
 - **Social Media Integration**: Links to LinkedIn, GitHub, Instagram, and more.
 - **Contact Form**: Functional form allowing visitors to send messages directly.
-- **SEO Optimized**: Includes meta tags and optimized structure for search engines.
+
 
 ## Technologies Used
 
