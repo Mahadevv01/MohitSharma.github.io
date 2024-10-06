@@ -113,4 +113,6 @@ You can deploy your portfolio website using any static hosting service, such as:
 - **Font Awesome**: For social media icons.
 - **Bootstrap**: CSS framework for quick layout development.
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
